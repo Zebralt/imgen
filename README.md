@@ -1,6 +1,6 @@
 # Imgen
 
-Some scripts generating random image by scouring pixels as if they were nodes in a network.
+Some scripts generating random images by scouring pixels as if they were nodes in a network.
 
 ## Image Networking (C++)
 
